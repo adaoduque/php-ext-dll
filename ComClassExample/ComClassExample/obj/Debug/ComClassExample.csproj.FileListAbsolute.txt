@@ -1,0 +1,7 @@
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\bin\Debug\ComClassExample.dll
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\bin\Debug\ComClassExample.pdb
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\bin\Debug\ComClassExample.tlb
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\obj\Debug\ComClassExample.csprojAssemblyReference.cache
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\obj\Debug\ComClassExample.csproj.CoreCompileInputs.cache
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\obj\Debug\ComClassExample.dll
+C:\Users\Adao\source\repos\ComClassExample\ComClassExample\obj\Debug\ComClassExample.pdb
